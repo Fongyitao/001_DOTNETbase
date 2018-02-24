@@ -1,0 +1,7 @@
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_001_练习\bin\Debug\_001_练习.exe.config
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_001_练习\bin\Debug\_001_练习.exe
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_001_练习\bin\Debug\_001_练习.pdb
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_001_练习\obj\Debug\_001_练习.csprojResolveAssemblyReference.cache
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_001_练习\obj\Debug\_001_练习.csproj.CoreCompileInputs.cache
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_001_练习\obj\Debug\_001_练习.exe
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_001_练习\obj\Debug\_001_练习.pdb

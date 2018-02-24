@@ -1,0 +1,10 @@
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_002_计算器\bin\Debug\_002_计算器.exe.config
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_002_计算器\bin\Debug\_002_计算器.exe
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_002_计算器\bin\Debug\_002_计算器.pdb
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_002_计算器\obj\Debug\_002_计算器.csprojResolveAssemblyReference.cache
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_002_计算器\obj\Debug\_002_计算器.Form1.resources
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_002_计算器\obj\Debug\_002_计算器.Properties.Resources.resources
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_002_计算器\obj\Debug\_002_计算器.csproj.GenerateResource.Cache
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_002_计算器\obj\Debug\_002_计算器.csproj.CoreCompileInputs.cache
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_002_计算器\obj\Debug\_002_计算器.exe
+D:\Fong\Source\Repos\001_DotNetbase\001_DotNetbase\_002_计算器\obj\Debug\_002_计算器.pdb
